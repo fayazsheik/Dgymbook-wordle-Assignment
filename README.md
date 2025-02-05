@@ -1,4 +1,3 @@
-# Dgymbook-wordle-Assignment
 # Wordle Clone
 
 A modern, responsive Wordle clone built with React and Tailwind CSS. This project features a clean UI, dark mode support, and smooth animations.
@@ -30,17 +29,20 @@ A modern, responsive Wordle clone built with React and Tailwind CSS. This projec
 ### Installation
 
 1. Clone the repository
+
 ```bash
-git clone https://github.com/yourusername/wordle-clone.git
+git clone https://github.com/fayazsheik/Dgymbook-wordle-Assignment.git
 cd wordle-clone
 ```
 
 2. Install dependencies
+
 ```bash
 npm install
 ```
 
 3. Start the development server
+
 ```bash
 npm start
 ```
@@ -68,8 +70,6 @@ src/
 ├── App.js           # Main application component
 └── index.js         # Application entry point
 ```
-
-
 
 ## License
 
