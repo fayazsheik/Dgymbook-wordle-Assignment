@@ -3,7 +3,7 @@
 
 A modern, responsive Wordle clone built with React and Tailwind CSS. This project features a clean UI, dark mode support, and smooth animations.
 
-![Wordle Clone Screenshot](https://images.unsplash.com/photo-1633613286991-611fe299c4be?auto=format&fit=crop&q=80&w=2070)
+![Wordle Clone Screenshot](wordle-clone/src/utils/Screenshot 2025-02-05 133224.png)
 
 ## Features
 
